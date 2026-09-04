@@ -8,14 +8,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=pablogullith&theme=tokyonight" />
-
-</div>
-
 <div align="center">
     
   <img class="imagem-centralizada" width="498" height="277" alt="Image" src="https://github.com/user-attachments/assets/7ffd7945-53de-49b6-9a8f-adce14cd063e">
