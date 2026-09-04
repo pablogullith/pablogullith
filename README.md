@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Pablo 👋
 
-<!--
-**pablogullith/pablogullith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍🔬 About Me
 
-Here are some ideas to get you started:
+- 🎓 B.Sc. in Physics — **Federal University of Rio Grande do Norte (UFRN)**
+- 🎓 M.Sc. Student in Physics — **Santa Catarina State University (UDESC)**
+- ⚛️ Research in **Quantum Computing & Quantum Information**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablogullith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablogullith&layout=compact&langs_count=8&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=pablogullith&theme=tokyonight" />
+
+</div>
